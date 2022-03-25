@@ -8,4 +8,4 @@ We use the following methods for the analysis:
 - Clustering Cryptocurrencies Using K-Means
 - Visualizing Results to create plots and data tables
 
-We have identified the classification of 531 cryptocurrencies based on similarities of their features, used K-Mean to cluster cryptocurrencies, reduced data dimensions by using PCA, and then used scatter plots with Plotly express and hvplot to visualize the distinct groups.
+We have prepared the data for dimensions reduction with PCA and clustering using K-means, reduced data dimensions using PCA algorithms from sklearn, predicted clusters using cryptocurrencies data using the K-means algorithm form sklearn, and created some plots and data tables to present the clustering results.
